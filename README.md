@@ -72,6 +72,12 @@ npm run dev
 npm run build
 ```
 
+5. Loom Video :
+
+ ```bash
+   [https://www.loom.com/share/6ccd428afe8049169d8749e1179932f5]
+   ```
+
 ## Project Structure 🏗️ 
 
 ```
